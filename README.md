@@ -1,5 +1,5 @@
 
-<p align="center">[<img width="60%" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg"/>](https://hacktoberfest.digitalocean.com/)</p>
+<p align="center"><a href="https://hacktoberfest.digitalocean.com/"> <img width="60%" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg"/></a></p>
 
 
 GitCommitMerge
