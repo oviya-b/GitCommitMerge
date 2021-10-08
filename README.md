@@ -5,7 +5,7 @@ GitCommitMerge
 
 ## Instructions
  
-* Add your name to [Contributors.md]() via a pull request
+* Add your name to [Contributors.md](./CONTRIBUTORS.md) via a pull request
 
 
 <p align="center">
