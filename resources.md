@@ -9,7 +9,7 @@
 8. [GitHub Pages](https://docs.github.com/en/pages)
 9. [Profile View Counter](https://github.com/antonkomarev/github-profile-views-counter)
 10. [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-
+11. [GitHub Profile Examples](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 
 # Useful OS Commands
