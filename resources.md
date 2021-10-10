@@ -1,3 +1,16 @@
+# Links
+1. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+2. [Open Souce Organisation](https://opensource.org/)
+3. [Download Git](https://git-scm.com/downloads)
+4. [GitHub Sign Up](https://github.com/signup)
+5. [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+6. [Open Issues for Hacktoberfest](https://github.com/search?q=hacktoberfest&state=open&type=Issues)
+7. [GitHub Docs](https://docs.github.com/en)
+8. [GitHub Pages](https://docs.github.com/en/pages)
+9. [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 # Useful OS Commands
 
 ## Windows
