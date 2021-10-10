@@ -7,7 +7,8 @@
 6. [Open Issues for Hacktoberfest](https://github.com/search?q=hacktoberfest&state=open&type=Issues)
 7. [GitHub Docs](https://docs.github.com/en)
 8. [GitHub Pages](https://docs.github.com/en/pages)
-9. [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+9. [Profile View Counter](https://github.com/antonkomarev/github-profile-views-counter)
+10. [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
 
 
